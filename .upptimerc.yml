@@ -8,9 +8,8 @@ sites:
   - name: panel.th7bo.com
     url: https://panel.th7bo.com
   - name: Depthful server
-    check: "tcp-ping"
-    url: play.th7bo.com
-    port: 25565
+    url: https://api.mcsrvstat.us/3/play.th7bo.com
+    __dangerous__body_down: '"online": false'
 
 assignees:
   - Th7bo
