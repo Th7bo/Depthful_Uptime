@@ -7,7 +7,7 @@ sites:
     url: https://www.th7bo.com
   - name: panel.th7bo.com
     url: https://panel.th7bo.com
-  - name: Depthful
+  - name: Depthful server
     check: "tcp-ping"
     url: play.th7bo.com
     port: 25565
