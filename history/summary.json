@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mcsrvstat.us.ico",
     "slug": "depthful-server",
     "status": "up",
-    "uptime": "70.78%",
-    "uptimeDay": "70.78%",
-    "uptimeWeek": "70.78%",
-    "uptimeMonth": "70.78%",
-    "uptimeYear": "70.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 297,
     "timeDay": 297,
     "timeWeek": 297,
     "timeMonth": 297,
     "timeYear": 297,
-    "dailyMinutesDown": {
-      "2024-09-05": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
