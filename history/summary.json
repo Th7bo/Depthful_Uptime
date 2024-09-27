@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 237,
-    "timeWeek": 195,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 187,
+    "timeDay": 230,
+    "timeWeek": 204,
+    "timeMonth": 187,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://panel.th7bo.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.th7bo.com.ico",
     "slug": "panel-th7bo-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 338,
-    "timeWeek": 255,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "status": "up",
+    "uptime": "98.93%",
+    "uptimeDay": "76.30%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
+    "time": 237,
+    "timeDay": 293,
+    "timeWeek": 268,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2024-09-27": 0
+      "2024-09-27": 341
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 920,
-    "timeWeek": 654,
-    "timeMonth": 682,
-    "timeYear": 682,
+    "time": 689,
+    "timeDay": 870,
+    "timeWeek": 686,
+    "timeMonth": 689,
+    "timeYear": 689,
     "dailyMinutesDown": {}
   }
 ]
