@@ -22,7 +22,7 @@
     "url": "https://panel.th7bo.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.th7bo.com.ico",
     "slug": "panel-th7bo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 255,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-27": 0
+    }
   },
   {
     "name": "Depthful server",
