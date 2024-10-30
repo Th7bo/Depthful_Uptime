@@ -8,6 +8,7 @@ sites:
   - name: panel.th7bo.com
     url: https://panel.th7bo.com
   - name: node3.th7bo.com
+    check: "tcp-ping"
     url: node3.th7bo.com
   - name: Depthful server
     url: https://api.mcsrvstat.us/3/play.th7bo.com
@@ -19,6 +20,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.th7bo.com
+  theme: dark
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Th7bo Status
