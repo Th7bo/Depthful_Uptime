@@ -7,10 +7,11 @@ sites:
     url: https://www.th7bo.com
   - name: panel.th7bo.com
     url: https://panel.th7bo.com
+  - name: node3.th7bo.com
+    url: https://node3.th7bo.com
   - name: Depthful server
     url: https://api.mcsrvstat.us/3/play.th7bo.com
     __dangerous__body_down: '"online": false'
-
 assignees:
   - Th7bo
 
