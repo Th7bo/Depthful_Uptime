@@ -46,12 +46,12 @@
     "url": "node3.th7bo.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node3-th7bo-com",
-    "status": "up",
-    "uptime": "78.61%",
-    "uptimeDay": "6.62%",
-    "uptimeWeek": "10.51%",
-    "uptimeMonth": "70.73%",
-    "uptimeYear": "78.61%",
+    "status": "down",
+    "uptime": "78.71%",
+    "uptimeDay": "7.00%",
+    "uptimeWeek": "10.56%",
+    "uptimeMonth": "70.87%",
+    "uptimeYear": "78.71%",
     "time": 112,
     "timeDay": 99,
     "timeWeek": 109,
@@ -67,7 +67,7 @@
       "2024-12-04": 1276,
       "2024-12-03": 1380,
       "2024-12-02": 1359,
-      "2024-12-01": 1075
+      "2024-12-01": 1016
     }
   },
   {
