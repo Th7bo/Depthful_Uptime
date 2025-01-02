@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node3-th7bo-com",
     "status": "down",
-    "uptime": "91.57%",
-    "uptimeDay": "7.90%",
-    "uptimeWeek": "23.17%",
-    "uptimeMonth": "82.32%",
-    "uptimeYear": "91.57%",
+    "uptime": "91.43%",
+    "uptimeDay": "7.27%",
+    "uptimeWeek": "21.69%",
+    "uptimeMonth": "81.98%",
+    "uptimeYear": "91.43%",
     "time": 114,
-    "timeDay": 124,
+    "timeDay": 121,
     "timeWeek": 120,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-01-02": 273,
+      "2025-01-02": 422,
       "2025-01-01": 1308,
       "2024-12-31": 1215,
       "2024-12-30": 1207,
@@ -73,9 +73,9 @@
     "url": "https://api.mcsrvstat.us/3/play.th7bo.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.mcsrvstat.us.ico",
     "slug": "depthful-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -84,6 +84,8 @@
     "timeWeek": 750,
     "timeMonth": 830,
     "timeYear": 809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-02": 0
+    }
   }
 ]
