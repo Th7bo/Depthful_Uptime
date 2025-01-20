@@ -46,12 +46,12 @@
     "url": "node3.th7bo.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node3-th7bo-com",
-    "status": "up",
-    "uptime": "91.25%",
-    "uptimeDay": "10.94%",
-    "uptimeWeek": "10.25%",
-    "uptimeMonth": "76.48%",
-    "uptimeYear": "91.25%",
+    "status": "down",
+    "uptime": "91.29%",
+    "uptimeDay": "11.93%",
+    "uptimeWeek": "10.39%",
+    "uptimeMonth": "76.59%",
+    "uptimeYear": "91.29%",
     "time": 114,
     "timeDay": 121,
     "timeWeek": 115,
@@ -66,7 +66,7 @@
       "2025-01-15": 1312,
       "2025-01-14": 1270,
       "2025-01-13": 1374,
-      "2025-01-12": 1091
+      "2025-01-12": 1046
     }
   },
   {
@@ -76,7 +76,7 @@
     "slug": "depthful-server",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "96.09%",
+    "uptimeDay": "97.09%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.94%",
