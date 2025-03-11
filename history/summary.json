@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 183,
-    "timeDay": 143,
-    "timeWeek": 207,
-    "timeMonth": 194,
+    "timeDay": 302,
+    "timeWeek": 226,
+    "timeMonth": 197,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2024-11-20": 29
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 228,
-    "timeDay": 232,
-    "timeWeek": 185,
-    "timeMonth": 197,
+    "timeDay": 123,
+    "timeWeek": 184,
+    "timeMonth": 191,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2024-11-20": 131,
@@ -46,14 +46,14 @@
     "url": "node3.th7bo.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node3-th7bo-com",
-    "status": "up",
-    "uptime": "96.15%",
-    "uptimeDay": "47.86%",
-    "uptimeWeek": "27.15%",
-    "uptimeMonth": "83.24%",
-    "uptimeYear": "96.15%",
+    "status": "down",
+    "uptime": "96.17%",
+    "uptimeDay": "47.85%",
+    "uptimeWeek": "27.51%",
+    "uptimeMonth": "83.32%",
+    "uptimeYear": "96.17%",
     "time": 114,
-    "timeDay": 113,
+    "timeDay": 112,
     "timeWeek": 111,
     "timeMonth": 112,
     "timeYear": 114,
@@ -64,7 +64,7 @@
       "2025-03-08": 1254,
       "2025-03-07": 1291,
       "2025-03-06": 1293,
-      "2025-03-05": 415
+      "2025-03-05": 378
     }
   },
   {
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 873,
-    "timeDay": 269,
-    "timeWeek": 353,
-    "timeMonth": 348,
-    "timeYear": 873,
+    "time": 871,
+    "timeDay": 541,
+    "timeWeek": 392,
+    "timeMonth": 356,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2025-01-19": 127
     }
