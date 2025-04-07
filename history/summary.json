@@ -47,13 +47,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node3-th7bo-com",
     "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "58.70%",
-    "uptimeWeek": "54.88%",
-    "uptimeMonth": "89.62%",
-    "uptimeYear": "98.02%",
+    "uptime": "98.05%",
+    "uptimeDay": "58.92%",
+    "uptimeWeek": "55.52%",
+    "uptimeMonth": "89.77%",
+    "uptimeYear": "98.05%",
     "time": 114,
-    "timeDay": 124,
+    "timeDay": 122,
     "timeWeek": 118,
     "timeMonth": 114,
     "timeYear": 114,
@@ -64,7 +64,7 @@
       "2025-04-04": 527,
       "2025-04-03": 774,
       "2025-04-02": 615,
-      "2025-04-01": 672
+      "2025-04-01": 607
     }
   },
   {
@@ -73,18 +73,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mcsrvstat.us.ico",
     "slug": "depthful-server",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 813,
     "timeDay": 461,
     "timeWeek": 365,
     "timeMonth": 369,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2025-04-07": 0,
+      "2025-04-07": 25,
       "2025-01-19": 127
     }
   }
