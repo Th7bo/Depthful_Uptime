@@ -1,7 +1,7 @@
 url: https://api.mcsrvstat.us/3/play.th7bo.com
-status: down
-code: 520
-responseTime: 16480
-lastUpdated: 2025-04-12T05:40:19.812Z
+status: up
+code: 200
+responseTime: 19064
+lastUpdated: 2025-04-12T05:46:09.302Z
 startTime: 2024-09-05T18:29:16.190Z
 generator: Upptime <https://github.com/upptime/upptime>
