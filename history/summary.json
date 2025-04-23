@@ -47,25 +47,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node3-th7bo-com",
     "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "37.51%",
-    "uptimeWeek": "51.06%",
-    "uptimeMonth": "88.55%",
-    "uptimeYear": "98.01%",
+    "uptime": "98.00%",
+    "uptimeDay": "41.16%",
+    "uptimeWeek": "51.11%",
+    "uptimeMonth": "88.53%",
+    "uptimeYear": "98.00%",
     "time": 114,
-    "timeDay": 112,
+    "timeDay": 111,
     "timeWeek": 115,
     "timeMonth": 117,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-04-22": 877,
+      "2025-04-22": 871,
       "2025-04-21": 733,
       "2025-04-20": 675,
       "2025-04-19": 723,
       "2025-04-18": 860,
       "2025-04-17": 652,
       "2025-04-16": 420,
-      "2025-04-11": 81
+      "2025-04-11": 99
     }
   },
   {
