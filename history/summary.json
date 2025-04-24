@@ -25,29 +25,33 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.th7bo.com.ico",
     "slug": "panel-th7bo-com",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.65%",
     "time": 221,
     "timeDay": 88,
     "timeWeek": 213,
     "timeMonth": 195,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-20": 131,
+      "2024-09-28": 677,
+      "2024-09-27": 352
+    }
   },
   {
     "name": "node3.th7bo.com",
     "url": "node3.th7bo.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node3-th7bo-com",
-    "status": "up",
-    "uptime": "97.88%",
-    "uptimeDay": "52.63%",
+    "status": "down",
+    "uptime": "97.90%",
+    "uptimeDay": "55.02%",
     "uptimeWeek": "48.10%",
-    "uptimeMonth": "87.74%",
-    "uptimeYear": "97.88%",
+    "uptimeMonth": "87.85%",
+    "uptimeYear": "97.90%",
     "time": 114,
     "timeDay": 117,
     "timeWeek": 116,
@@ -61,7 +65,7 @@
       "2025-04-20": 675,
       "2025-04-19": 723,
       "2025-04-18": 860,
-      "2025-04-17": 339
+      "2025-04-17": 289
     }
   },
   {
