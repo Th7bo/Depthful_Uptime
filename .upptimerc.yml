@@ -7,12 +7,12 @@ sites:
     url: https://www.th7bo.com
   - name: panel.th7bo.com
     url: https://panel.th7bo.com
-  - name: node3.th7bo.com
-    check: "tcp-ping"
-    url: node3.th7bo.com
-  - name: Depthful server
-    url: https://api.mcsrvstat.us/3/play.th7bo.com
-    __dangerous__body_down: '"online": false'
+  - name: manager.th7bo.dev
+    url: manager.th7bo.dev
+  - name: th7bo.pics
+    url: th7bo.pics
+  - name: azul.th7bo.dev
+    url: azul.th7bo.dev
 assignees:
   - Th7bo
 
