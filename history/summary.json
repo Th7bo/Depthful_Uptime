@@ -52,9 +52,9 @@
     "slug": "manager-th7bo-dev",
     "status": "up",
     "uptime": "25.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.67%",
+    "uptimeMonth": "78.68%",
     "uptimeYear": "25.80%",
     "time": 286,
     "timeDay": 281,
@@ -62,6 +62,7 @@
     "timeMonth": 322,
     "timeYear": 286,
     "dailyMinutesDown": {
+      "2025-08-31": 0,
       "2025-08-07": 678,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
@@ -153,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-08-31": 1415,
+      "2025-08-31": 1421,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -217,9 +218,9 @@
     "slug": "azul-th7bo-dev",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 161,
@@ -227,7 +228,7 @@
     "timeMonth": 239,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-08-31": 0
+      "2025-08-31": 6
     }
   }
 ]
